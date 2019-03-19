@@ -11,7 +11,8 @@
 
 ### Tema 8. multimi finite de numere intregi reprezentate ca liste inlantuite:
 - clasa multime sa contina metode de: 
-  - transformare a unei liste inlantuite in multime, prin eliminarea duplicatelor din respectiva lista; supraincarcare a operatorilor >> si <<; 
+  - transformare a unei liste inlantuite in multime, prin eliminarea duplicatelor din respectiva lista; 
+  - supraincarcare a operatorilor >> si <<; 
   - reuniune a doua multimi, implementata prin supraincarcarea operatorului +; 
   - intersectie a doua multimi, implementata prin supraincarcarea operatorului *; 
   - diferenta dintre doua multimi, implementata prin supraincarcarea operatorului -;
